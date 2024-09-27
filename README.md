@@ -16,6 +16,20 @@ AdrenalineFX CryptoSentinel proactive Anti-Data-Exfiltration and reactive Anti-R
 - 🚀 **Firewall Support**<br>
 - 🛡️ **Zero Trust**
 
+  ## Anti-Ransomware Features
+- 💡 **Lightweight**<br>
+- 🛠️ **Configurable**<br>
+- 🖥️ **IO_MONITOR Mode** for fine-tuning<br>
+- 📝 **Log Files**<br>
+- 🔄 **Filesystem IO Activity Rates per Second and Minute**<br>
+- 🧮 **File Entropy and BitByte Analysis**<br>
+- 🧾 **Magic Byte and Extension Verification**<br>
+- 🐤 **Canary Trap**<br>
+- 🛑 **Path exclusion**<br>
+- 🔊 **Receive Immediate Notifications via Sound Alarms**<br>
+- 🚀 **Shutdown upon Detection of Encryption Start**<br>
+- 💻 **Written in C++**<br>
+
 
 
 ## Requirements
@@ -28,20 +42,16 @@ Sysmon64 [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sys
 .Net 8 Desktop Runtime [Download](https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe)<br>
     
 
-## Adrenaline FX works on client versions of Windows.
-
-![image](https://github.com/user-attachments/assets/e83cbd9a-fcf0-4e42-80af-5027c08c0880)
-
-![image](https://github.com/user-attachments/assets/e53746dc-fcf7-4aba-aeb0-d7059b071d77)
+## AdrenalineFX::CryptoSentinel works on client versions of Windows.
 
 
+
+![AdrenalineCryptoSentinel](https://github.com/user-attachments/assets/53b1ae8b-67df-40e1-b21c-46d91e2743d9)
 
 
 
 
-## To-Do List
-:penguin: **ipV6 Support** :penguin:<br>
-:penguin: **Firewall Rules Timeout** :penguin:<br>
+
 
 
 ## Contact
