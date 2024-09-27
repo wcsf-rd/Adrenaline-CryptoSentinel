@@ -16,7 +16,7 @@ AdrenalineFX CryptoSentinel, proactive Anti-Data-Exfiltration and reactive Anti-
 - 🚀 **Firewall Support**<br>
 - 🛡️ **Zero Trust**
 
-  ## Anti-Ransomware Features
+## Anti-Ransomware Features
 - 💡 **Lightweight**<br>
 - 🛠️ **Configurable**<br>
 - 🖥️ **IO_MONITOR Mode** for fine-tuning<br>
