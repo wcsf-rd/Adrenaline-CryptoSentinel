@@ -1,5 +1,5 @@
 
-AdrenalineFX CryptoSentinel proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.
+AdrenalineFX CryptoSentinel, proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.
 
 
 ## Anti-Exfiltration Features
