@@ -20,7 +20,7 @@ AdrenalineFX CryptoSentinel, proactive Anti-Data-Exfiltration and reactive Anti-
 - 💡 **Lightweight**<br>
 - 🛠️ **Configurable**<br>
 - 🖥️ **IO_MONITOR Mode** for fine-tuning<br>
-- 📝 **Log Files**<br>
+- 📝 **Log**<br>
 - 🔄 **Filesystem IO Activity Rates per Second and Minute**<br>
 - 🧮 **File Entropy and BitByte Analysis**<br>
 - 🧾 **Magic Byte and Extension Verification**<br>
