@@ -8,8 +8,8 @@ AdrenalineFX CryptoSentinel, proactive Anti-Data-Exfiltration and reactive Anti-
 - 🖥️ **IP to ASN converter** <br>
 - 📝 **IP to Country converter**<br>
 - 🔄 **Autogenerate Shadow Model**<br>
-- 🧾 **Whitelist ASN**<br>
-- 🧾 **Whitelist String Based**<br>
+- 🧾 **Layer3/4**<br>
+- 🧾 **Whitelist ASN and String**<br>
 - 🐤 **UserMode/ AdminMode**<br>
 - 🛑 **Anti-Smuggling**<br>
 - 🔊 **Log**<br>
@@ -22,7 +22,7 @@ AdrenalineFX CryptoSentinel, proactive Anti-Data-Exfiltration and reactive Anti-
 - 🖥️ **IO_MONITOR Mode** for fine-tuning<br>
 - 📝 **Log**<br>
 - 🔄 **Filesystem IO Activity Rates per Second and Minute**<br>
-- 🧮 **File Entropy and BitByte Analysis**<br>
+- 🧮 **BitByte Analysis**<br>
 - 🧾 **Magic Byte and Extension Verification**<br>
 - 🐤 **Canary Trap**<br>
 - 🛑 **Path exclusion**<br>
