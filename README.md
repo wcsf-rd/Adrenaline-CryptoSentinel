@@ -1,6 +1,8 @@
 
 AdrenalineFX CryptoSentinel, proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.
 
+FX Engine version 1.0.0.0
+RX Engine Version 3.7.0.0
 
 ## Anti-Exfiltration Features
 - 💡 **MultiScore Machine Learning**<br>
