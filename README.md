@@ -1,8 +1,5 @@
 
-AdrenalineFX CryptoSentinel, proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.<br>
-
-FX Engine version 1.0.0.0<br>
-RX Engine Version 3.7.0.0<br>
+Adrenaline CryptoSentinel, proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.<br>
 
 ## Anti-Exfiltration Features
 - 💡 **MultiScore Machine Learning**<br>
@@ -43,6 +40,9 @@ Sysmon64 [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sys
 
 .Net 8 Desktop Runtime [Download](https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe)<br>
     
+## Module version:
+FX Engine version 1.0.0.0<br>
+RX Engine Version 3.7.0.0<br>
 
 ## AdrenalineFX::CryptoSentinel works on client versions of Windows.
 
