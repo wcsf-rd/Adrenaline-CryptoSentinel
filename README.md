@@ -1,5 +1,6 @@
 
-Adrenaline CryptoSentinel, proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.<br>
+Adrenaline CryptoSentinel, version 1.0 Release Candidate<br>
+Proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.<br>
 
 ## Anti-Exfiltration Features
 - 💡 **MultiScore Machine Learning**<br>
