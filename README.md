@@ -49,8 +49,8 @@ RX Engine Version 3.7.0.0<br>
 
 
 
-![AdrenalineCryptoSentinel](https://github.com/user-attachments/assets/53b1ae8b-67df-40e1-b21c-46d91e2743d9)
 
+<img width="828" alt="new_UX3" src="https://github.com/user-attachments/assets/99eb7c23-2cdd-4088-a435-edd1a48433c7">
 
 
 
