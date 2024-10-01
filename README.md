@@ -17,12 +17,11 @@ Proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.<br>
 - 🛡️ **Zero Trust**
 
 ## Anti-Ransomware Features
-- 💡 **Lightweight**<br>
-- 🛠️ **Configurable**<br>
+- 💡 **Lightweight and Reactive**<br>
 - 🖥️ **IO_MONITOR Mode** for fine-tuning<br>
 - 📝 **Log**<br>
 - 🔄 **Filesystem IO Activity Rates per Second and Minute**<br>
-- 🧮 **BitByte Analysis**<br>
+- 🧮 **BitByte Entropy Analysis**<br>
 - 🧾 **Magic Byte and Extension Verification**<br>
 - 🐤 **Canary Trap**<br>
 - 🛑 **Path exclusion**<br>
