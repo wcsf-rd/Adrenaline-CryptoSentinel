@@ -1,5 +1,5 @@
 
-Adrenaline CryptoSentinel, version 1.0 Release Candidate<br>
+Adrenaline CryptoSentinel, version 1.1 RC2<br>
 Proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.<br>
 
 ## Anti-Exfiltration Features
