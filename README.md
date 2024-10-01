@@ -27,7 +27,7 @@ Proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.<br>
 - 🛑 **Path exclusion**<br>
 - 🔊 **Receive Immediate Notifications via Sound Alarms**<br>
 - 🚀 **Shutdown upon Detection of Encryption Start**<br>
-- 💻 **Written in C++**<br>
+- 🛡️ **Zero Trust**
 
 
 
