@@ -1,6 +1,6 @@
 
 Adrenaline CryptoSentinel, version 1.1 RC2.3<br>
-Proactive Anti-Data-Exfiltration and reactive Anti-Ransomware.<br>
+Proactive Protection Against Data Exfiltration and Reactive Ransomware Defense.<br>
 
 ## Proactive Anti-Exfiltration Features
 - 💡 **MultiScore Machine Learning**<br>
