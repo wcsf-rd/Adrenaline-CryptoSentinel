@@ -48,7 +48,7 @@ RX Engine Version 3.7.0.0<br>
 ![AdrenalineFX CryptoSentinel, Proactive Anti Exfiltration and Reactive Anti Ransomware](https://github.com/user-attachments/assets/99eb7c23-2cdd-4088-a435-edd1a48433c7)
 
 
-## Contact
+# Contact
 [LinkedIn](https://www.linkedin.com/in/roberto-m-7b8314149)
 
 
