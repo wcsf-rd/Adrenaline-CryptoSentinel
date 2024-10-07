@@ -47,20 +47,16 @@ RX Engine Version 3.7.0.0<br>
 
 # Screenshot
 
-![AdrenalineFX CryptoSentinel, Proactive Anti Exfiltration and Reactive Anti Ransomware](https://github.com/user-attachments/assets/a1aac525-b6b8-43a4-b5c9-d5524a58b2fd)
-
+<img src="https://github.com/user-attachments/assets/a1aac525-b6b8-43a4-b5c9-d5524a58b2fd" alt="AdrenalineFX CryptoSentinel, Proactive Anti Exfiltration and Reactive Anti Ransomware" width="800"/>
 
 ## Fs Score Model (Anti Data Exfiltration)
 Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values Set in the Adrenaline CryptoSentinel Control Panel.<br>
 
-
-![Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values](https://github.com/user-attachments/assets/893a1aee-40e8-4df3-b7c1-a54565f82b74)
+<img src="https://github.com/user-attachments/assets/893a1aee-40e8-4df3-b7c1-a54565f82b74" alt="Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values" width="800"/>
 
 
 ## Reactive Anti Ransomware
-
-![rc2 4_rx drawio](https://github.com/user-attachments/assets/d299360f-54b3-4aaa-ba3c-04d0f1115027)
-
+<img src="https://github.com/user-attachments/assets/d299360f-54b3-4aaa-ba3c-04d0f1115027" alt="Reactive Anti Ransomware" width="800"/>
 
 # Contact
 [LinkedIn](https://www.linkedin.com/in/roberto-m-7b8314149)
