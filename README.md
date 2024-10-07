@@ -51,7 +51,11 @@ RX Engine Version 3.7.0.0<br>
 ## Fs Score Model (Anti Data Exfiltration)
 Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values Set in the Adrenaline CryptoSentinel Control Panel.<br>
 
-![rc2 4_new](https://github.com/user-attachments/assets/24413212-f7fa-4bc4-a5c8-a6f6e2ecfaa4)
+![Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values](https://github.com/user-attachments/assets/24413212-f7fa-4bc4-a5c8-a6f6e2ecfaa4)
+
+## Reactive Anti Ransomware configuration
+
+![rc2 4_rx drawio](https://github.com/user-attachments/assets/d299360f-54b3-4aaa-ba3c-04d0f1115027)
 
 
 # Contact
