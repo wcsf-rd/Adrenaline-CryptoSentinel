@@ -33,14 +33,14 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
 
 
 
-# Requirements
+## Requirements/ Install
 MS Windows 10/11 x64<br>
 Install Pcap ([Download NPCAP](https://npcap.com/#download) or [Download WIN10PCAP](https://www.win10pcap.org/))<br>
 Install Sysmon64 [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon).<br>
 Install .Net Framework 4.8.1 Runtime [Download](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer)<br>
 Install .Net 8 Desktop Runtime [Download](https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe)<br>
     
-# Module version:
+## Module version:
 FX Engine version 1.0.0.0<br>
 RX Engine Version 3.7.0.0<br>
 
@@ -48,6 +48,10 @@ RX Engine Version 3.7.0.0<br>
 
 ![AdrenalineFX CryptoSentinel, Proactive Anti Exfiltration and Reactive Anti Ransomware](https://github.com/user-attachments/assets/3b801013-f5b2-417c-8995-2cc38ff6b325)
 
+## Fs Score Model
+Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values Set in the Adrenaline CryptoSentinel Control Panel.<br>
+
+![rc2 4_new](https://github.com/user-attachments/assets/24413212-f7fa-4bc4-a5c8-a6f6e2ecfaa4)
 
 
 # Contact
