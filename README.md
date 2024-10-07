@@ -1,5 +1,5 @@
 
-# Adrenaline CryptoSentinel, version 1.1 RC2.3<br>
+# Adrenaline CryptoSentinel, version 1.1 RC2.4<br>
 Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 
 ## Proactive Anti-Exfiltration Features
@@ -45,7 +45,9 @@ FX Engine version 1.0.0.0<br>
 RX Engine Version 3.7.0.0<br>
 
 # Screenshot
-![AdrenalineFX CryptoSentinel, Proactive Anti Exfiltration and Reactive Anti Ransomware](https://github.com/user-attachments/assets/99eb7c23-2cdd-4088-a435-edd1a48433c7)
+
+![AdrenalineFX CryptoSentinel, Proactive Anti Exfiltration and Reactive Anti Ransomware](https://github.com/user-attachments/assets/3b801013-f5b2-417c-8995-2cc38ff6b325)
+
 
 
 # Contact
