@@ -13,7 +13,7 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
 - 🐤 **UserMode/ AdminMode**<br>
 - 🛑 **Anti-Smuggling**<br>
 - 🔊 **Log**<br>
-- 🚀 **Firewall Support**<br>
+- 🚀 **Windows Firewall Support**<br>
 - 🛡️ **Zero Trust**
 
 ## Reactive Anti-Ransomware Features
@@ -26,7 +26,8 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
 - 🐤 **Canary/Honeypot File System**<br>
 - 🛑 **Path exclusion**<br>
 - 🛡️ **Zero Trust**
-### Alarm:
+  
+### Anti-Ransomware Alarm:
 - 🔊 **Instant Notifications via Sound Alerts**<br>
 - 🚀 **Total OS Shutdown on Crypto Activity**<br>
 
