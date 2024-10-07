@@ -57,7 +57,7 @@ Data Flow Severity through Divergence and IP Proximity Indicators based on Thres
 ![Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values](https://github.com/user-attachments/assets/893a1aee-40e8-4df3-b7c1-a54565f82b74)
 
 
-## Reactive Anti Ransomware configuration
+## Reactive Anti Ransomware
 
 ![rc2 4_rx drawio](https://github.com/user-attachments/assets/d299360f-54b3-4aaa-ba3c-04d0f1115027)
 
