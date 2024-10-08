@@ -60,6 +60,11 @@ Data Flow Severity through Divergence and IP Proximity Indicators based on Thres
 
 
 ## Reactive Anti Ransomware
+[AdrenalineRX module VS. WannaCry (YouTube)](https://www.youtube.com/watch?v=3Zoqsb92otE) <br>
+<br>
+<img src="https://github.com/user-attachments/assets/d6cfc434-a0e5-4d1b-bffb-27ed30bb4b47" alt="AdrenalineRX AntiRansomware VS WannaCry" width="800"/>
+
+<br>
 <img src="https://github.com/user-attachments/assets/d299360f-54b3-4aaa-ba3c-04d0f1115027" alt="Reactive Anti Ransomware" width="800"/>
 
 # Contact
