@@ -56,7 +56,7 @@ RX Engine Version 3.7.0.0<br>
 Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values Set in the Adrenaline CryptoSentinel Control Panel.<br>
 
 <img src="https://github.com/user-attachments/assets/a8004196-d065-4e7f-9ef1-84bac6659fdb" alt="Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values" width="800"/>
-![rc2 4_new two](https://github.com/user-attachments/assets/a8004196-d065-4e7f-9ef1-84bac6659fdb)
+
 
 
 ## Reactive Anti Ransomware
