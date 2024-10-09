@@ -31,15 +31,22 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
 - 🔊 **Instant Notifications via Sound Alerts**<br>
 - 🚀 **Total OS Shutdown on Crypto Activity**<br>
 
+### Anti-Ransomware Test:
+[AdrenalineRX module VS. WannaCry (YouTube)](https://www.youtube.com/watch?v=3Zoqsb92otE) <br>
+[AdrenalineRX module VS. LockBit3.0 (YouTube)](https://www.youtube.com/watch?v=ftq_G4Jqa5o) <br>
 
 
 
-## Requirements / Install
+
+## Requirements
 MS Windows 10/11 x64<br>
 Install Pcap ([Download NPCAP](https://npcap.com/#download) or [Download WIN10PCAP](https://www.win10pcap.org/))<br>
 Install Sysmon64 [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon).<br>
 Install .Net Framework 4.8.1 Runtime [Download](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer)<br>
 Install .Net 8 Desktop Runtime [Download](https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe)<br>
+
+## Install Adrenaline CryptoSentinel
+[Download from this link](https://github.com/wcsf-rd/Adrenaline-CryptoSentinel/blob/main/AdrenalineCryptoSentinel_X64_RC2.4_Installer.exe)
     
 ## Module version:
 FX Engine version 1.0.0.0<br>
@@ -61,6 +68,7 @@ Data Flow Severity through Divergence and IP Proximity Indicators based on Thres
 
 ## Reactive Anti Ransomware
 [AdrenalineRX module VS. WannaCry (YouTube)](https://www.youtube.com/watch?v=3Zoqsb92otE) <br>
+[AdrenalineRX module VS. LockBit3.0 (YouTube)](https://www.youtube.com/watch?v=ftq_G4Jqa5o) <br>
 <br>
 <img src="https://github.com/user-attachments/assets/d6cfc434-a0e5-4d1b-bffb-27ed30bb4b47" alt="AdrenalineRX AntiRansomware VS WannaCry" width="800"/>
 
