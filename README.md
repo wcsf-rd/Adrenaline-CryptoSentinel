@@ -46,7 +46,7 @@ Install .Net Framework 4.8.1 Runtime [Download](https://dotnet.microsoft.com/en-
 Install .Net 8 Desktop Runtime [Download](https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe)<br>
 
 ## Install Adrenaline CryptoSentinel
-[Download from this link](https://github.com/wcsf-rd/Adrenaline-CryptoSentinel/blob/main/AdrenalineCryptoSentinel_X64_RC2.4_Installer.exe)
+[Download File](https://github.com/wcsf-rd/Adrenaline-CryptoSentinel/blob/main/AdrenalineCryptoSentinel_X64_RC2.4_Installer.exe)
     
 ## Module version:
 FX Engine version 1.0.0.0<br>
