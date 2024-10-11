@@ -1,5 +1,5 @@
 
-# Adrenaline CryptoSentinel, version 1.1 RC2.4<br>
+# Adrenaline CryptoSentinel, version 1.1 RC2.5
 Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 
 ## Proactive Anti-Exfiltration Features
