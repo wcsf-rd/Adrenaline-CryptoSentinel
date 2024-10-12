@@ -41,10 +41,13 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
 
 ## Requirements
 MS Windows 10/11 x64<br>
-Install Pcap ([Download NPCAP](https://npcap.com/#download) or [Download WIN10PCAP](https://www.win10pcap.org/))<br>
-Install Sysmon64 [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon).<br>
-Install .Net Framework 4.8.1 Runtime [Download](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer)<br>
-Install .Net 8 Desktop Runtime [Download](https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe)<br>
+<br>
+
+.Net Framework 4.8.1 Runtime [Download](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer)<br>
+.Net 8 Desktop Runtime [Download](https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe)<br>
+<br>
+Sysmon64 [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon).<br>
+Pcap ([Download NPCAP](https://npcap.com/#download) or [Download WIN10PCAP](https://www.win10pcap.org/))<br>
 
 ## Install Adrenaline CryptoSentinel
 Locate the installer file in this GitHub project.
