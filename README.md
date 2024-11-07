@@ -56,13 +56,13 @@ Locate the installer file in this GitHub project.
 FX Engine version 1.0.0.0<br>
 RX Engine Version 3.7.0.0<br>
 
-## Limitation:
-Read only IPv4
-Monitors only IPs in the 192.168.x.x network
+## Limitations:
+Read only IPv4<br>
+Monitors only IPs in the 192.168.x.x network<br>
 
 ## Coming
-IPv6 support
-Monitoring for data exfiltration across all local IP classes
+IPv6 support<br>
+Monitoring for data exfiltration across all local IP classes<br>
 
 # Screenshot
 
