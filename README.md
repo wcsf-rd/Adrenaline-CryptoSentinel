@@ -1,6 +1,6 @@
 Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 
-# Adrenaline CryptoSentinel, version 1.1 RC2.5e
+# Adrenaline CryptoSentinel, version 1.1 RC2.5f
 
 
 ## Proactive Anti-Exfiltration Features
@@ -19,6 +19,7 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
 
 ## Reactive Anti-Ransomware Features
 - 💡 **Lightweight and Reactive**<br>
+- 🖥️ **IPv6 support**<br>
 - 🖥️ **I/O MONITOR Mode** for fine-tuning<br>
 - 📝 **Activity Log**<br>
 - 🔄 **Filesystem Activity Rates per Second and Minute**<br>
@@ -56,13 +57,8 @@ Locate the installer file in this GitHub project.
 FX Engine version 1.0.0.0<br>
 RX Engine Version 3.7.0.0<br>
 
-## Limitations:
-Read only IPv4<br>
-Monitors only IPs in the 192.168.x.x network<br>
-
 ## Coming
-IPv6 support<br>
-Monitoring for data exfiltration across all local IP classes<br>
+Monitoring data exfiltration across all local IP address ranges.<br>
 
 # Screenshot
 
