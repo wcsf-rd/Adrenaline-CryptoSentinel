@@ -5,8 +5,9 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
 
 ## Proactive Anti-Exfiltration Features
 - 💡 **MultiScore Machine Learning**<br>
-- 🛠️ **Protocol Dissection**<br>
+- 🛠️ **IPv6 support**<br>
 - 🖥️ **IP to ASN converter** <br>
+- 🖥️ **Protocol Dissection**<br>
 - 📝 **IP to Country converter**<br>
 - 🔄 **Autogenerate Shadow Model**<br>
 - 🧾 **Layer3/4**<br>
@@ -19,7 +20,6 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
 
 ## Reactive Anti-Ransomware Features
 - 💡 **Lightweight and Reactive**<br>
-- 🖥️ **IPv6 support**<br>
 - 🖥️ **I/O MONITOR Mode** for fine-tuning<br>
 - 📝 **Activity Log**<br>
 - 🔄 **Filesystem Activity Rates per Second and Minute**<br>
@@ -31,7 +31,7 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
   
 ### Anti-Ransomware Alarm:
 - 🔊 **Instant Notifications via Sound Alerts**<br>
-- 🚀 **Total OS Shutdown on Crypto Activity**<br>
+- 🚀 **Automatic Shutdown on Crypto Activity**<br>
 
 ### Anti-Ransomware Test:
 [AdrenalineRX module VS. WannaCry (YouTube)](https://www.youtube.com/watch?v=3Zoqsb92otE) <br>
@@ -67,7 +67,7 @@ Monitoring data exfiltration across all local IP address ranges.<br>
 
 
 
-## Fs Score Model (Anti Data Exfiltration)
+## Flow Severity (FS) Score Model for Anti-Data Exfiltration
 Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values Set in the Adrenaline CryptoSentinel Control Panel.<br>
 
 <img src="https://github.com/user-attachments/assets/a8004196-d065-4e7f-9ef1-84bac6659fdb" alt="Data Flow Severity through Divergence and IP Proximity Indicators based on Threshold Values" width="800"/>
