@@ -1,6 +1,6 @@
 Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 
-# Adrenaline CryptoSentinel, version 1.2
+# Adrenaline CryptoSentinel, version 1.2 Trial
 
 
 ## Proactive Anti-Exfiltration Features
