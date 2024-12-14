@@ -1,6 +1,6 @@
 Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 
-# Adrenaline CryptoSentinel, version 1.1 RC2.5f
+# Adrenaline CryptoSentinel, version 1.2
 
 
 ## Proactive Anti-Exfiltration Features
@@ -54,8 +54,8 @@ Pcap ([Download NPCAP](https://npcap.com/#download) or [Download WIN10PCAP](http
 Locate the installer file in this GitHub project.
     
 ## Module version:
-FX Engine version 1.0.0.0<br>
-RX Engine Version 3.7.0.0<br>
+FX Engine version 1.0.0.1<br>
+RX Engine Version 3.7.0.1<br>
 
 ## Coming
 Monitoring data exfiltration across all local IP address ranges.<br>
