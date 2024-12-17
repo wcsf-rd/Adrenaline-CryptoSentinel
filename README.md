@@ -4,6 +4,8 @@ Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Def
 [HomePage: https://sgneep.com/cryptosentinel](https://sgneep.com/cryptosentinel)<br>
 SHA-256: 7ce5d9143604b78ba95bd69a0358b833e203acd974a12f53298830f61b61184a<br>
 
+[Latest Release/Download](https://github.com/wcsf-rd/Adrenaline-CryptoSentinel/releases/tag/v1.2.2-AdrenalineCryptosentinel)<br>
+
 
 ## Proactive Anti-Exfiltration Features
 - 💡 **MultiScore Machine Learning**<br>
