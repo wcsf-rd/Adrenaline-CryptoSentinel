@@ -1,8 +1,8 @@
 Proactive Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 
 # Adrenaline CryptoSentinel, version 1.2.2 Trial
-[https://sgneep.com/cryptosentinel](https://sgneep.com/cryptosentinel)
-SHA-256: 7ce5d9143604b78ba95bd69a0358b833e203acd974a12f53298830f61b61184a
+[https://sgneep.com/cryptosentinel](https://sgneep.com/cryptosentinel)<br>
+SHA-256: 7ce5d9143604b78ba95bd69a0358b833e203acd974a12f53298830f61b61184a<br>
 
 
 ## Proactive Anti-Exfiltration Features
