@@ -1,6 +1,6 @@
 Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 
-# Adrenaline CryptoSentinel, version 1.2.3 Trial
+# Adrenaline CryptoSentinel, version 1.2.4 Trial
 [HomePage: https://sgneep.com/cryptosentinel](https://sgneep.com/cryptosentinel)<br>
 
 [Latest Release/Download](https://github.com/wcsf-rd/Adrenaline-CryptoSentinel/releases/tag/v1.2.3-AdrenalineCryptosentinel)<br>
