@@ -62,8 +62,6 @@ Locate the installer file in this GitHub project.
 FX Engine version 1.0.0.1<br>
 RX Engine Version 3.7.0.1<br>
 
-## Coming
-Monitoring data exfiltration across all local IP address ranges.<br>
 
 # Screenshot
 
