@@ -1,5 +1,6 @@
 Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 
+
 # Adrenaline CryptoSentinel
 [HomePage: https://sgneep.com/cryptosentinel](https://sgneep.com/cryptosentinel)<br>
 
@@ -37,6 +38,10 @@ Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 ### Anti-Ransomware Alarm:
 - 🔊 **Instant Notifications via Sound Alerts**<br>
 - 🚀 **Automatic Shutdown on Crypto Activity**<br>
+
+### License key:
+[Write to me on LinkedIn](https://www.linkedin.com/in/roberto-m-7b8314149)
+
 
 ### Anti-Ransomware Test:
 [AdrenalineRX module VS. WannaCry (YouTube)](https://www.youtube.com/watch?v=3Zoqsb92otE) <br>
