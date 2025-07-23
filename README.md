@@ -4,7 +4,7 @@ Protection Against Data Exfiltration (ADX) and Reactive Ransomware Defense.<br>
 # Adrenaline CryptoSentinel
 
 
-[Latest Release/Download](https://github.com/wcsf-rd/Adrenaline-CryptoSentinel/releases/)<br>
+[Latest Release/Download](https://github.com/wcsf-rd/Adrenaline-CryptoSentinel/releases/)...(removed)<br>
 
 
 
